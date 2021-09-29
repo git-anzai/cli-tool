@@ -18,6 +18,4 @@
 - `tzld config set type users`
 - `tzld config set registry xxx`
 
-### 发布
 
-开发完成后，即可发布至 npm.
